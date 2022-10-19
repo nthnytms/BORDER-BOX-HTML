@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial;
+}
+ 
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+
+nav {
+  float: left;
+  width: 50%;
+  height: 250px; 
+  background: #ccc;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 50%;
+  background-color: #f1f1f1;
+  height: 250px; 
+}
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+
+ (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Header</h1>
+</header>
+
+<section>
+  <nav>
+
+      <h1><center>Column 1</center></h1>
+   
+<p>I am Mark Anthony Tomas from Calumpit, Bulacan. 
+I finished my senior high school at La Consolacion University 
+Philippines with a strand of Information and Communication Technologies 
+specializations in Computer Programming. </p>
+    
+    <p>I am now studying in Bulacan State University with the 
+course of Bacherlor of Science in Mathematics Major in Computer Science. 
+I choose this course because I just enjoy working on the computer 
+more than anything else.</p>
+   
+  </nav>
+  
+	<article>
+    <h1><center>Column 2</center></h1>
+    
+    <p>I am Mark Anthony Tomas from Calumpit, Bulacan. 
+I finished my senior high school at La Consolacion University 
+Philippines with a strand of Information and Communication Technologies 
+specializations in Computer Programming. </p>
+    
+    <p>I am now studying in Bulacan State University with the 
+course of Bacherlor of Science in Mathematics Major in Computer Science. 
+I choose this course because I just enjoy working on the computer 
+more than anything else.</p>
+	</article>
+</section>
+
+<footer>
+  <h1>Footer</h1>
+</footer>
+
+</body>
+</html>
+
