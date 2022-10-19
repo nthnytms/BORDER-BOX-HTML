@@ -1,6 +1,6 @@
 # BASICS FOR CREATING WEBSITE USING HTML
 
-<pre>
+
 
 <h4> OUTPUT: </h4>
 
@@ -10,4 +10,4 @@
 Feel free to copy my code for educational purposes.
 For more information you may contact me with my social media accounts.
 
-</pre>
+
