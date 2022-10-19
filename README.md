@@ -4,7 +4,8 @@
 
 <h4> OUTPUT: </h4>
 
-![image](https://user-images.githubusercontent.com/103377280/196716679-fced330c-6852-45ab-ac50-924a39e808a9.png)
+![image](https://user-images.githubusercontent.com/103377280/196717703-9d772c6a-b620-466a-aec1-8ebba35ea016.png)
+
 
 Feel free to copy my code for educational purposes.
 For more information you may contact me with my social media accounts.
